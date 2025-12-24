@@ -1,0 +1,2 @@
+Jetson.GPIO==2.1.6
+RPi.GPIO>=0.7.0

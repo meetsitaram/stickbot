@@ -1,0 +1,4 @@
+- i would like to create a new project to work with nvidia orin nano
+- setup a skeleton python project repo with default code structure
+- refer to nvidia docs and other tutorials or examples to add example scripts
+- have simple examples to - set high low on a digital i/o pin, read input on a digital i/o pin, try out high/low pins vs pwm pins
