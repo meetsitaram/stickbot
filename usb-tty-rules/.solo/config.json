@@ -1,0 +1,22 @@
+{
+    "lerobot": {
+        "robot_type": "bi_so100",
+        "left_leader_port": "/dev/leader_left_arm",
+        "right_leader_port": "/dev/leader_right_arm",
+        "leader_calibrated": false,
+        "known_leader_ids": [
+            "bi_so100_leader"
+        ],
+        "leader_id": "bi_so100_leader",
+        "left_follower_port": "/dev/follower_left_arm",
+        "right_follower_port": "/dev/follower_right_arm",
+        "follower_calibrated": false,
+        "known_follower_ids": [
+            "bi_so100_follower"
+        ],
+        "follower_id": "bi_so100_follower"
+    },
+    "server": {
+        "type": "lerobot"
+    }
+}
