@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/stick/solo_venv/bin/python3
 """
 Real-time Keyboard GPIO Toggle Control for NVIDIA Orin Nano
 

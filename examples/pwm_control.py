@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/stick/solo_venv/bin/python3
 """
 PWM Control Example for NVIDIA Orin Nano
 

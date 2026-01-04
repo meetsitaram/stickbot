@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/stick/solo_venv/bin/python3
 """
 NVIDIA Orin Nano GPIO Pin Diagram and Reference
 

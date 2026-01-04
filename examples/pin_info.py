@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/stick/solo_venv/bin/python3
 """
 GPIO Pin Information and Testing Script for NVIDIA Orin Nano
 
